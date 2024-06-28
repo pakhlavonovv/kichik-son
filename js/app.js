@@ -95,7 +95,7 @@ let num1 = parseFloat(prompt("Birinchi sonni kiriting: "));
 let num2 = parseFloat(prompt("Ikkinchi sonni kiriting: "));
 let num3 = parseFloat(prompt("Uchinchi sonni kiriting: "));
 
-let max;
+let min;
 
 if (num1 <= num2 && num1 >= num3) {
     max = num1;
